@@ -4,12 +4,13 @@
 // import ReactRouting from "./components/ReactRouting";
 // import MiniContext from "./components/MiniContext";
 // import ThemeSwitcher from "./components/ThemeSwitcher";
-import TodoContextLocalStorage from "./components/TodoContextLocalStorage";
+// import TodoContextLocalStorage from "./components/TodoContextLocalStorage";
+import ReduxToolkitTodo from "./components/ReduxToolkitTodo";
 
 function App() {
   return (
     <>
-      <TodoContextLocalStorage />
+      <ReduxToolkitTodo />
     </>
   );
 }
